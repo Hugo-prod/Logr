@@ -29,4 +29,4 @@ logr "4" "This is a info";
 
 #### Result:  
 
-![LOGR_DEMO](img/Screensho_Logr_demo.png)  
+![LOGR_DEMO](img/Screenshot_Logr_demo.png)  
